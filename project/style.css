@@ -1,0 +1,121 @@
+#d1 {
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    margin-left: 40px;
+    margin-top: 50px;
+    background-image: url('https://cdn.pixabay.com/photo/2018/01/14/00/05/makeup-3081015_1280.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+   }
+   #d2{background-image: url("https://cdn.pixabay.com/photo/2020/10/10/18/01/makeup-5643863_1280.jpg");
+      background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+      margin-left: 60px;
+      margin-top: 30px;
+      padding-top: 30px;
+      padding-right: 30px;
+      padding-bottom: 30px;
+      padding-left: 30px;
+  }#d3{background-image: url('https://cdn.pixabay.com/photo/2020/04/02/05/19/beauty-4993472_1280.jpg');
+   background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;;
+
+}
+#d4{background-image: url("https://cdn.pixabay.com/photo/2020/04/25/09/10/cosmetics-5090011_1280.jpg");
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+
+   
+   padding-top: 30px;
+   padding-right: 30px;
+   padding-bottom: 30px;
+   padding-left: 30px;
+}
+
+
+#d5{
+   background-image: url("https://cdn.pixabay.com/photo/2020/03/06/19/33/brush-4908005_1280.jpg");
+   background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-left: 60px;
+    margin-top: 50px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+
+h1{
+   
+   text-align: center;
+}
+div{
+    
+    display: block-inline;
+   background-color:rgba(255, 0, 0, 0.25);  
+
+} 
+
+
+
+
+*{
+   color: white;
+   padding: 0px;
+   margin: 0px;
+}
+#navbar{
+   background-color: #0f1111;
+   height: 40px;
+   border: 5px;
+   border-style: solid;
+   border-color:white;
+   
+}
+button{
+   background-color: #f08804;
+   
+}
+
+#logo{
+   margin-top: 20px;
+   margin-left: 10px;
+   color: white ;
+   font-size: 25px;
+   background-color:rgb(151, 47, 64);
+}
+
+a{
+   margin-right: 190px;
+   text-decoration:none;
+}
+.contentbox{
+   height:100px;
+   width:100px;
+  
+   display: inline-block;
+   align-items: center;
+}
+#content
+   {
+       height: 500px;
+   }
+
+footer{
+   color:white;
+   background-color: black;
+   text-align: center;
+}
